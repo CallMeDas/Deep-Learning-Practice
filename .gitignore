@@ -1,0 +1,6 @@
+datasets/
+*.zip
+*.tar
+*.h5
+*.pt
+*.pth
